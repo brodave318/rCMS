@@ -1,0 +1,15 @@
+class CreatePages < ActiveRecord::Migration[5.0]
+  def change
+    create_table :pages do |t|
+      t.string :title
+      t.string :section_id
+      t.string :integer
+      t.text :body
+      t.integer :order
+      t.boolean :is_published
+      t.boolean :menu_display
+
+      t.timestamps
+    end
+  end
+end
