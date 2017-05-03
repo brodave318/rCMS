@@ -1,24 +1,10 @@
 # README
+Building a Content Management Sytem from the course 'Learn Ruby on Rails by Building Projects' by Eduonix Learning Solutions -- Stackskills
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+What I will learn in this project:
+* Active Admin fundamentals
+* MVC framwork fundamentals
+* CRUD operations in Active Admin
+* Bootstrap-Sass Gems for frontend
+* Admin namespace
+* Dynamic navigation
