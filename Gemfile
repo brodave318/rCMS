@@ -37,10 +37,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'mysql2'
 gem 'activeadmin', github: 'activeadmin'
 gem 'devise'
-gem 'active_admin_editor'
+gem 'active_admin_editor', github: 'ejholmes/active_admin_editor'
 gem 'font-awesome-rails'
 gem 'bootstrap-sass', '~> 3.2.0'
-gem 'autoprefixer-rails' 
+gem 'autoprefixer-rails'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
